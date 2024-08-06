@@ -17,7 +17,7 @@ This Python script automates the process of backing up a directory to a specifie
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/backup-script.git
+    git clone https://github.com/ByteSlinger0307/Auto_File_Backup.git
     ```
 
 2. Navigate to the project directory:
@@ -32,11 +32,11 @@ This Python script automates the process of backing up a directory to a specifie
 
 ## Usage
 
-1. Open `backup_script.py` in a text editor and set the paths for the source and destination directories.
+1. Open `main.py` in a text editor and set the paths for the source and destination directories.
 
 2. Run the Python script:
     ```bash
-    python backup_script.py
+    python main.py
     ```
 
 3. The script will prompt you to enter the source and destination directories. Ensure the source directory exists and is accessible.
